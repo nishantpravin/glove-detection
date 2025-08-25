@@ -1,0 +1,25 @@
+{
+  "filename": "VID_20220120_191931-146_jpg.rf.d2cfdb2cd5a37dde96443f6f76d2b130.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.88904,
+      "bbox": [
+        83,
+        53,
+        154,
+        132
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.681223,
+      "bbox": [
+        72,
+        0,
+        149,
+        23
+      ]
+    }
+  ]
+}

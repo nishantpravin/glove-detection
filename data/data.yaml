@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['gloved', 'not-gloved']
+
+roboflow:
+  workspace: sana-ali
+  project: gloves-annotated-dataset
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/sana-ali/gloves-annotated-dataset/dataset/1

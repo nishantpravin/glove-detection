@@ -1,0 +1,25 @@
+{
+  "filename": "20220118_125419-241_jpg.rf.fc564337a12c7243d84a23874b612fb0.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.758938,
+      "bbox": [
+        81,
+        69,
+        121,
+        91
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.630238,
+      "bbox": [
+        106,
+        64,
+        122,
+        85
+      ]
+    }
+  ]
+}
