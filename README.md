@@ -168,10 +168,6 @@ Images: 98 | JSON logs: 98
 - **OpenCV errors on write:** verify write permissions for `--output`.
 - **Ultralytics missing:** `pip install ultralytics`.
 
-## 7) License
-
-Add your preferred license (e.g., MIT) here.
-
-## 8) Acknowledgments
+## 7) Acknowledgments
 
 Built with [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics).
